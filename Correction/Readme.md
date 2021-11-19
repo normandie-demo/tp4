@@ -37,6 +37,8 @@ ansible -i inventory 'front' -m debug -a 'var=middleware' -e middleware=override
 ```
 
 
+Lien vers le dossier [corrections](Correction)
+
 
 
 
